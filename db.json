@@ -1,0 +1,256 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Apple iPhone 13 Pro Mobile Phone",
+      "price": 145000,
+      "units": 5,
+      "category": "Electronics",
+      "description": [
+        "15 cm (6.1-inch) Super Retina XDR display with ProMotion for a faster, more responsive feel",
+        "Cinematic mode adds shallow depth of field and shifts focus automatically in your videos",
+        "Pro camera system with new 12MP Telephoto, Wide and Ultra Wide cameras; LiDAR Scanner; 6x optical zoom range; macro photography; Photographic Styles, ProRes video, Smart HDR 4, Night mode, Apple ProRAW, 4K Dolby Vision HDR recording",
+        "12MP TrueDepth front camera with Night mode, 4K Dolby Vision HDR recording",
+        "A15 Bionic chip for lightning-fast performance"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/491997699/apple-iphone-13-128-gb-midnight-black-digital-o491997699-p590798548-0-202208221207.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Samsung S22 5G 128 GB, 8 GB RAM, Phantom Black, Mobile Phone",
+      "price": 62999,
+      "units": 2,
+      "category": "Electronics",
+      "description": [
+        "Dynamic AMOLED 2X with Vision Booster",
+        "4 nm Octa Core Processor",
+        "8GB RAM and 128 GB Internal Memory",
+        "Corning Gorilla Glass Victus+",
+        "3700mAh Battery Capacity",
+        "25W Super Fast Charging",
+        "12MP Ultra Wide, 50MP Wide-angle, 10MP Telephoto Camera and 30X Space Zoom"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/492849200/samsung-s22-5g-128-gb-8-gb-ram-phantom-black-smartphone-digital-o492849200-p591054066-0-202202222112.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Sony Alpha ILCE-7M3K Full-Frame 24.2MP Mirrorless Digital SLR Camera",
+      "price": 159990,
+      "units": 2,
+      "category": "Electronics",
+      "description": [
+        "Sensor: 24.2MP 35 mm Full-Frame CMOS Sensor with Back-Illuminated Design",
+        "Sensitivity Range Up To ISO 51200 (Expandable To ISO 50-204800 For Stills)"
+      ],
+      "image": "https://www.jiomart.com/images/product/original/491362604/sony-alpha-ilce-7m3k-full-frame-24-2mp-mirrorless-digital-slr-camera-with-28-70-mm-zoom-lens-4k-full-frame-real-time-eye-auto-focus-4k-vlogging-camera-tiltable-lcd-low-light-camera-black-digital-o491362604-p590038916-0-202009260624.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Mark42 Plastic Multicolor Rubix Cube 4 years",
+      "price": 139,
+      "units": 6,
+      "category": "Toys",
+      "description": [
+        "Material - Plastic",
+        "Color - Multicolor"
+      ],
+      "image": "https://www.jiomart.com/images/product/600x600/rv9cb35qby/mark42-plastic-multicolor-rubix-cube-4-years-product-images-orv9cb35qby-p595181884-0-202211091508.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Sony PS5 DualSense Wireless Controller",
+      "price": 5299,
+      "units": 1,
+      "category": "Toys",
+      "description": [
+        "Feel Your In-Game Actions and Environment Simulated Through Haptic Feedback",
+        "Experience Varying Force and Tension at Your Fingertips with Adaptive Triggers"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/491936182/sony-ps5-dualsense-wireless-controller-digital-o491936182-p590441674-0-202108122024.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Capriff 32 L Casual Waterproof Laptop Bag/Backpack for Men Boys & Girls",
+      "price": 439.00,
+      "units": 1,
+      "category": "Luggage",
+      "description": [
+        "Light weight and waterproof"
+      ],
+      "image": "https://www.jiomart.com/images/product/original/rvrcm1p2vb/capriff-32-l-casual-waterproof-laptop-bag-backpack-for-men-boys-girls-product-images-rvrcm1p2vb-0-202205211739.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Puma Logo Print 15 Laptop Bag/Backpack",
+      "price": 1974.00,
+      "units": 1,
+      "category": "Luggage",
+      "description": [
+        "Light weight and waterproof",
+        "A best fit for all sizes laptops"
+      ],
+      "image": "https://www.jiomart.com/images/product/600x750/469218955_black/logo-print-15-laptop-backpack-model-469218955_black-0-202206301337.jpg"
+    },
+    {
+      "id": 8,
+      "title": "MBTC Mavic Wrought Iron Folding Study Chair with Cushion & Adjustable Writing Pad",
+      "price": 2799.00,
+      "units": 1,
+      "category": "Furniture",
+      "description": [
+        "Folding writing pad chair"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/rv094pigrz/mbtc-mavic-wrought-iron-folding-study-chair-with-cushion-adjustable-writing-pad-product-images-orv094pigrz-p590830183-0-202110221529.jpg"
+    },
+    {
+      "id": 9,
+      "title": "PumPum White Queen Size Hollow Micro Fiber Mattress Topper 78 inch x 60 inch",
+      "price": 1399.00,
+      "units": 1,
+      "category": "Furniture",
+      "description": [
+        "This mattress topper is baffle box stitched to keep the filling equally spread into square pockets",
+        "This mattress topper has elastic straps on all 4 corners to provide a good fit"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/rvqzrc6lly/pumpum-white-queen-size-hollow-micro-fiber-mattress-topper-78-inch-x-60-inch-product-images-orvqzrc6lly-p590984528-0-202201042218.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Lifelong LLEK15 1.5 litres Electric Kettle with Over-heating safety protection (Silver)",
+      "price": 499.00,
+      "units": 1,
+      "category": "Kitchen Appliances",
+      "description": [
+        "Stainless steel body, concealed element and single touch lid locking",
+        "High capacity of 1.5L, ideal for tea and coffee"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/492910947/lifelong-llek15-1-5-litres-electric-kettle-with-over-heating-safety-protection-silver-digital-o492910947-p594028221-0-202209241432.jpeg"
+    },
+    {
+      "id": 11,
+      "title": "Inalsa Jazz Pro 550 Watts Mixer Grinder With 3 Speed Setting",
+      "price": 499.00,
+      "units": 1,
+      "category": "Kitchen Appliances",
+      "description": [
+        "Sturdy and Strong ABS Body",
+        "Concealed Bushes To Prevent Oil Leakage"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/491959502/inalsa-jazz-pro-550-watts-mixer-grinder-with-3-speed-setting-digital-o491959502-p590442538-0-202111252026.jpeg"
+    },
+    {
+      "id": 12,
+      "title": " Vector X Speed Rubber Green/Orange Basketball ",
+      "price": 265.00,
+      "units": 1,
+      "category": "Sports and Fitness",
+      "description": [
+        "Sturdy and Strong ABS Body",
+        "Rubber upper"
+      ],
+      "image": "https://www.jiomart.com/images/product/600x600/rvlbjl83zc/vector-x-rubber-green-and-orange-basketball-size-3-product-images-orvlbjl83zc-p590965677-0-202112292112.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Jaspo Multicolor Badminton Combo Set For Beginners",
+      "price": 539.00,
+      "units": 1,
+      "category": "Sports and Fitness",
+      "description": [
+        "Lightweight set - Jaspo get set is slim badminton racket is 100 percent steel shaft, completely different feel, not only light but also easy to use it. You can enjoy the badminton game for longer duration and do not have shoulder pain caused by other heavier racquets.",
+        "Perfect performance and durability - oval shaped racket length is 26 inches, 8 inches play area that is more efficient for play powerful shorts. Additionally, enhanced and increase the effective range. Steel composite material can enhance the strength or the racket. Moreover, it reduces the risk of frame deformation and make racket more stable.",
+        "Upgraded shuttlecocks - these shuttlecocks are more accurate and high speed swings that helpful to play it effectively. 5 pc of feather shuttle corks are made of wooden cork and feather which improved the durability and stability, so that you can used for longer time."
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/rvcgo3exac/jaspo-multicolor-badminton-combo-set-for-beginners-product-images-orvcgo3exac-p590921907-0-202112010209.jpg"
+    },
+    {
+      "id": 14,
+      "title": " Color Fx TWILIGHT 158 9 ml Nail enamels ",
+      "price": 265.00,
+      "units": 1,
+      "category": "Beauty",
+      "description": [
+        "Premium quality pigmented nail enamels",
+        "Flawless & Highly pigmented enamel to give that intense color in one gliding stroke",
+        "Lesser usage per use.Gel Like finish"
+      ],
+      "image": "https://www.jiomart.com/images/product/600x600/1060401/color-fx-twilight-158-9-ml-prod-1060401-0-202212080246.jpg"
+    },
+    {
+      "id": 15,
+      "title": " Ital Veloce Glacial Dreams Fine Fragrance/Spray Mist 210 ml",
+      "price": 465.00,
+      "units": 1,
+      "category": "Beauty",
+      "description": [
+        "High quality long lasting fragrances, IFRA certified, Cruelty free"
+      ],
+      "image": "https://www.jiomart.com/images/product/original/1067665/ital-veloce-glacial-dreams-fine-fragrance-mist-210-ml-prod-1067665-0-202212052045.jpg"
+    },
+    {
+      "id": 16,
+      "title": " Introduction to Coding - Scratch Your Brain and Crack the Codes, Paperback Book, 40 Pages",
+      "price": 499.00,
+      "units": 2,
+      "category": "Books",
+      "description": [
+        "Perfect for ages 5-15",
+        "40 pages of age-appropriate activities",
+        "Easy-to-follow directions",
+        "Expressive images"
+      ],
+      "image": "https://www.jiomart.com/images/product/600x600/rvqf5nhbh2/introduction-to-coding-scratch-your-brain-and-crack-the-codes-paperback-40-pages-product-images-orvqf5nhbh2-p591052150-0-202202220830.jpg"
+    },
+    {
+      "id": 17,
+      "title": " Prime Hulk 5-Steps Heavy-Duty Foldable Steel Step Ladder with Large Anti-Skid Steps, 5Years Warranty (Black + Green)",
+      "price": 4999.00,
+      "units": 2,
+      "category": "Home Improvement",
+      "description": [
+        "The Prime Hulk Steel Ladder is the Only Ladder you need at Home or at Work.",
+        "Manufactured in India using High-Quality Steel & Is Covered By 5 Year Warranty On Manufacturing Defects",
+        "Built From High-Grade, Powder-Coated Steel & Engineered To Provide Convenience & Compatible Product That Is Bound To Serve Our Customers Efficiently"
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/rvmnxgeg0b/prime-hulk-5-steps-heavy-duty-foldable-steel-step-ladder-with-large-anti-skid-steps-5years-warranty-black-green-product-images-orvmnxgeg0b-p596541522-0-202212211856.png"
+    },
+    {
+      "id": 18,
+      "title": " MIHSP Water Pump HI-flow (Copper Winding), 25X25 Cast Aluminum Body (0.5 hp)",
+      "price": 3675.00,
+      "units": 2,
+      "category": "Home Improvement",
+      "description": [
+        "Energy efficient motor",
+        "Motor speed: 2900 Revolution per minute",
+        "In built thermal overload protector "
+      ],
+      "image": "https://www.jiomart.com/images/product/420x420/rvrddtgqwu/mihsp-water-pump-hi-flow-copper-winding-25x25-cast-aluminum-body-0-5-hp-product-images-orvrddtgqwu-p596281951-0-202212120726.jpg"
+    },
+    {
+      "id": 19,
+      "title": " Amul Butter 100 g (Carton)",
+      "price": 52.00,
+      "units": 2,
+      "category": "Groceries",
+      "description": [
+        "Smooth and creamy",
+        "Easy to spread",
+        "Enhances the flavour"
+      ],
+      "image": "https://www.jiomart.com/images/product/600x600/490001387/amul-butter-100-g-carton-product-images-o490001387-p490001387-0-202203170403.jpg"
+    },
+    {
+      "id": 20,
+      "title": " Nestle EveryDay Dairy Whitener 200 g (Pouch)",
+      "price": 110.00,
+      "units": 2,
+      "category": "Groceries",
+      "description": [
+        "Easily miscible",
+        "Smooth and even texture"
+      ],
+      "image": "https://www.jiomart.com/images/product/600x600/490188707/nestle-everyday-dairy-whitener-200-g-pouch-product-images-o490188707-p490188707-0-202203150801.jpg"
+    }
+  ]
+}
